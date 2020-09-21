@@ -1,2 +1,2 @@
-# class-21
-converted algorithm to function and made librairy
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
